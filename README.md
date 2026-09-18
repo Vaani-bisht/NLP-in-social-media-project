@@ -49,29 +49,20 @@ Matplotlib / Seaborn	Data visualization
 The project follows a standard NLP and machine learning pipeline:
 
 Raw Tweet Dataset
-
        ↓
 Data Exploration
-
        ↓
 Text Cleaning & Preprocessing
-
        ↓
 Tokenization / Stopword Handling
-
        ↓
 Feature Extraction
-
        ↓
 Train-Test Split
-
        ↓
 Machine Learning Model
-
        ↓
 Sentiment Prediction
-
        ↓
-       
 Model Evaluation
 
